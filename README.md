@@ -14,4 +14,12 @@ It represents the consensus of the IETF community.
 It has received public review and has been approved for publication by the Internet Engineering Steering Group (IESG). 
 本文档已接受公众评审，并且已被IESG（互联网工程监督小组）批准。
 
+2.  RFC Streams and Internet Standards
+
+Users of RFCs should be aware that while all Internet Standards-related documents are published as RFCs, not all RFCs are Internet Standards-related documents.
+
+使用rfc的用户应该知道，虽然所有与Internet标准相关的文档都是以rfc的形式发布的，但并不是所有rfc都是与Internet标准相关的文档。
+
+The IETF is responsible for maintaining the Internet Standards Process, which includes the requirements for developing, reviewing, and approving Standards Track and BCP RFCs. 
+IETF有责任维护Internet标准制定，其中包括开发，评审，通过跟踪标准和 BCP RFCs。
 
